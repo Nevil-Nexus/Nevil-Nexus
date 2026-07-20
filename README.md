@@ -28,24 +28,28 @@
 
 I'm a student exploring the intersection of **data, software, and technology**.
 
-Currently studying **Data Science**, I enjoy working on projects that involve data analysis, visualization, software development, and problem-solving. My background in web development gives me a technical perspective that allows me to approach projects from different angles — from understanding and analyzing data to building tools and applications around it.
+Currently studying **Data Science**, I enjoy working on projects involving data analysis, visualization, software development, and problem solving. My background in web development gives me a technical perspective that allows me to approach projects from different angles, from analyzing data to building useful tools and applications.
 
 I am continuously learning, experimenting with new technologies, and building projects across different areas of technology.
 
-* 📊 Exploring Data Analysis, Data Science & Business Intelligence
-* 🐍 Working with Python, SQL, Pandas, Power BI, Tableau & Excel
-* 💻 Background in Web Development with JavaScript, React, Django & TypeScript
-* 🔍 Interested in turning data and ideas into useful solutions
-* 🚀 Always learning, experimenting, and building
+📊 Exploring Data Analysis, Data Science and Business Intelligence
+
+🐍 Working with Python, Pandas, NumPy, SQL, Power BI, Tableau and Excel
+
+💻 Background in Web Development with JavaScript, React, Django and TypeScript
+
+🔍 Interested in turning data and ideas into useful solutions
+
+🚀 Always learning, experimenting and building
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 📊 Data & Analytics
+### 📊 Data and Analytics
 
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,pandas,mysql,powerbi,tableau,excel" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,pandas,numpy,mysql,powerbi,tableau,excel" />
 </p>
 
 ### 💻 Development
@@ -73,4 +77,4 @@ I am continuously learning, experimenting with new technologies, and building pr
 
 Feel free to explore my repositories and connect with me.
 
-I'm interested in **Data, Software Development, Technology, and building practical solutions**. I'm always learning, experimenting, and working on new projects.
+I'm interested in **Data, Software Development, Technology and building practical solutions**. I'm always learning, experimenting and working on new projects.
