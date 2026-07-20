@@ -3,11 +3,11 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Nevil</h1>
-<h3 align="center">Data Analyst • Full-Stack Developer</h3>
+<h3 align="center">Data • Software • Technology</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nevil-Nexus&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Open%20to-Data%20Analyst%20Roles-brightgreen" alt="Open to Work" />
+  <img src="https://img.shields.io/badge/Exploring-Data%20%26%20Technology-brightgreen" alt="Exploring Data and Technology" />
 </p>
 
 <p align="center">
@@ -26,23 +26,26 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Data Analyst** with a background in **Web & Mobile Development**.
+I'm a student exploring the intersection of **data, software, and technology**.
 
-I enjoy transforming raw data into meaningful insights through data cleaning, analysis, visualization, and business intelligence. My software development experience enables me to build complete, data-driven solutions that combine analytical thinking with modern technologies.
+Currently studying **Data Science**, I enjoy working on projects that involve data analysis, visualization, software development, and problem-solving. My background in web development gives me a technical perspective that allows me to approach projects from different angles — from understanding and analyzing data to building tools and applications around it.
 
-- 📊 Passionate about Data Analytics & Business Intelligence
-- 🐍 Working with Python, SQL, Power BI, Tableau & Excel
-- 💻 Experienced in Full-Stack Development with Django, React, Vue.js & TypeScript
-- 🚀 Always learning and building projects that turn data into actionable insights
+I am continuously learning, experimenting with new technologies, and building projects across different areas of technology.
+
+* 📊 Exploring Data Analysis, Data Science & Business Intelligence
+* 🐍 Working with Python, SQL, Pandas, Power BI, Tableau & Excel
+* 💻 Background in Web Development with JavaScript, React, Django & TypeScript
+* 🔍 Interested in turning data and ideas into useful solutions
+* 🚀 Always learning, experimenting, and building
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 📊 Data & BI
+### 📊 Data & Analytics
 
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi,tableau,excel,mysql,python" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,pandas,mysql,powerbi,tableau,excel" />
 </p>
 
 ### 💻 Development
@@ -70,4 +73,4 @@ I enjoy transforming raw data into meaningful insights through data cleaning, an
 
 Feel free to explore my repositories and connect with me.
 
-I'm always interested in **Data Analytics**, **Business Intelligence**, and **Software Development**.
+I'm interested in **Data, Software Development, Technology, and building practical solutions**. I'm always learning, experimenting, and working on new projects.
