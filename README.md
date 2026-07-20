@@ -6,7 +6,7 @@
 <h3 align="center">Data • Software • Technology</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nevil-Nexus&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Nexus-Nevil&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Exploring-Data%20%26%20Technology-brightgreen" alt="Exploring Data and Technology" />
 </p>
 
@@ -63,12 +63,12 @@ I am continuously learning, experimenting with new technologies, and building pr
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nevil-Nexus&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nevil-Nexus&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nexus-Nevil&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nexus-Nevil&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nevil-Nexus&theme=github-dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Nexus-Nevil&theme=github-dark&hide_border=true" />
 </p>
 
 ---
