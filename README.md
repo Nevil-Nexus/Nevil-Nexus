@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="lain.gif" width="600">
+  <img src="yo.gif" width="600">
 </p>
 
 <h1 align="center">Hi 👋, I'm Nevil</h1>
